@@ -9,7 +9,7 @@
 
 ## **Project Description:**
 
-This map application is a list of Black-Owned Restaurants in the Seattle area. When you type in a certain address in the "***Search for places in Seattle***" box, on the left hand side you will see that the list of restaurants has been rearrange to show which business is closest to said location. The user may use this as the preferred way of search for restaurant locations. (see below)
+This map application is a list of Black-Owned Restaurants in the Seattle area. When you type in a certain address in the "***Search for places in Seattle***" box, on the left hand side you will see that the list of restaurants has been rearrange to show which business is closest to said location. This is determined by taking in the searched location's coordinates and the coordinated of the restaurants to see which one has the shortest distance in a mile measurement. The user may use this as the preferred way of searching for restaurant locations. (see below)
 
 ![App Screenshot](img/distance.png)
 
@@ -22,6 +22,8 @@ That is all there is too it.
 ## **Project Goal**
 
 This project was intended to bring more awareness to the locations of Black-Owned Businesses in the Seattle area. While we still continue to live in a COVID present world where things are slowly but surely getting back to normal, businesses have been impacted greatly and are trying to stay afloat. Minority-owned businesses are no exception to this, and for this reason, I decided to dedicate my project to the African-American community here in Seattle to help them gain more clientele.
+
+Personally, as a minority myself and a family that does own their own business, I saw first hand the impacts that the pandemic had on POC. For this reason, it was with no hesitence that I decided to choose a project like this one because ultimately, those that benefit from it most are the ones that need it most. I didn't do this out of charity, but rather in solidarity with my BIPOC. I am a proud first-generation Latino and will always represent.
 
 ## **Main Functions Used in Code**
 
